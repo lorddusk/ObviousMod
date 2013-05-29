@@ -1,0 +1,20 @@
+[
+{
+	"modid": "OM",
+	"name": "Obvious Mod",
+	"description": "A Description, which is obvious.",
+	"version": "0.0.1",
+	"url": "",
+	"updateUrl": "",
+	"authorList": [
+	"LordDusk"
+	],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependencies": [
+	]	
+}
+]
